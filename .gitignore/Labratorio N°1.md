@@ -152,7 +152,7 @@ end; begin assumptions; options deftype=unord; end;
 ### Parte 4: Buscando artículos científicos en línea
 ##### 29. En tu informe, incluye una captura de pantalla de tu alerta. Si es que recibes una alerta en tu correo electrónico, también puedes adjuntarla en tu informe.
 
-![](https://lh4.googleusercontent.com/JEbeVxtPPG5V7Oj3clEOr2du4a8SxY2fh2Pw7hMR-L5uGgvIB2di3jf3E_72emRG7U5iBRAf2J4OAw=w1366-h662-rw)
+![](https://lh3.googleusercontent.com/2OJmPUE17vyf0titzcrgkQ6OgEdHNscSiuSt6v189u-IGDhIJ-jCchVUsrVQ3OyYx0PpDuQUWywEpw=w1366-h662-rw)
 
 ##### 30. En tu informe agrega una captura de pantalla de tu suscripción o del correo electrónico de confirmación. 
 
