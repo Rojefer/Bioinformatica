@@ -2,7 +2,7 @@
 
 ### Parte 1: Colectar genes homólogos
 
-##### **1. **¿Qué función cumple el gen SRY?**
+##### **1. ¿Qué función cumple el gen SRY?**
 
 Es un gen sin intrones, el cual codifica para un factor de transcripcion encargado de la codifiacion de los testiulos, por lo que inicia la determinaion del sexo.
 
@@ -427,7 +427,9 @@ Ofrece distintos tipos de alinemiento de seuencias, ya se para proteinas complet
 ##### **13. ¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?**
 ##### **14. ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?**
 ##### **15. Prueba lo mismo, pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento.**
-### **Parte 3: Diseño de partidores
+
+### Parte 3: Diseño de partidores
+
 ##### **16. Agrega a tu informe una lista de los "LEFT PRIMER" y "RIGHT PRIMER" que obtuviste usando Primer3. **
 ##### **17. Indica los partidores forward y reverse que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano.**
 ##### **18. ¿Cuál es el largo del amplicón? ¿Y la temperatura de annealing sugerida?**
