@@ -430,7 +430,7 @@ Ofrece distintos tipos de alinemiento de seuencias, ya se para proteinas complet
 
 ### Parte 3: Diseño de partidores
 
-##### **16. Agrega a tu informe una lista de los "LEFT PRIMER" y "RIGHT PRIMER" que obtuviste usando Primer3. **
+##### **16. Agrega a tu informe una lista de los "LEFT PRIMER" y "RIGHT PRIMER" que obtuviste usando Primer3.**
 ##### **17. Indica los partidores forward y reverse que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano.**
 ##### **18. ¿Cuál es el largo del amplicón? ¿Y la temperatura de annealing sugerida?**
 
