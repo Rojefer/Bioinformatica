@@ -41,7 +41,9 @@ El número de identificación del gen es 3064.
 (https://www.genome.jp/dbget-bin/www_bget?hsa:3064).
 
 ##### 15. ¿En qué rutas metabólicas participa la proteína codificada por tu gen?
-! [] (https://drive.google.com/open?id=1MPVpFuBOxqfDkVS4Y2XaBKyrz8EkSbdc)
+
+![](https://drive.google.com/open?id=1MPVpFuBOxqfDkVS4Y2XaBKyrz8EkSbdc)
+
 ##### 16. En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede obtener exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso? 
 UniProt: P42858 (https://www.uniprot.org/uniprot/P42858).
 HumanCyc: G66-47214 (HumanCyc) (https://biocyc.org/gene?orgid=HUMAN&id=G66-47214).
