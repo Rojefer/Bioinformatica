@@ -98,28 +98,51 @@ NEXUS
 begin data; dimensions ntax=1 nchar=1288; format interleave datatype=DNA missing=N gap=-;
 matrix NM_204305.1 ACCTTCTCACTGCGCGCTGGGGCCGTTGACGTGCAGCAGGAACACTATAA
 NM_204305.1 actcacaccaagtgtcaggacgaacagaggcttctcacaaacgaggacacaaccaaatca
+
 NM_204305.1 ggcataatggttaaagttggtattaacggattcggtcgcattggccgtctggtgacccgt
+
 NM_204305.1 gctgctttcttgaccaagaaagtggagatcgtggccatcaatgacccattcattgacctt
+
 NM_204305.1 gattacatggtttacatgttccagtacgactccacccatggaaagtacaagggtgaggtt
+
 NM_204305.1 aaggcagaaggcggcaaactggtcattgatggtcatgcaatcacagtctatagcgagagg
+
 NM_204305.1 gacccagccaacattaagtggggtgatgcaggtgctacttatgttgtggagtctactggt 
+
 NM_204305.1 gtcttcactactattgagaaggcttctgctcacattaagggtggtgcaaagagagtcatc 
+
 NM_204305.1 atctctgccccaagtgcagatgcccccatgtttgtcatgggtgtcaaccatgagaaatat
+
 NM_204305.1 gacaactctctcacagttgtaagcaatgcctcctgcaccaccaactgcctggctcctttg
+
 NM_204305.1 gcaaaggtcatcaatgataactttgtcatcgttgaaggtcttatgagcactgttcatgcc 
+
 NM_204305.1 atcacagcaacacagaagaccgttgatgggccctctgggaagctgtggagggatggccgt
+
 NM_204305.1 ggtgccagtcagaacatcatcccagcctccactggggctgccaaggctgtaggcaaagta
+
 NM_204305.1 attcctgagctcaatggcaagcttactggtatggccttccgtgtccccacccccaatgtc
+
 NM_204305.1 tctgttgtggatctgacagtccgtcttgagaaacctgccaagtatgatgagatcaagaaa
+
 NM_204305.1 gtcgtcaaggctgcagctgatgggcccatgaaaggaattctgggatacacggagcaccag
+
 NM_204305.1 gttgtgtccactgacttcaatggggattgccgttcatccatctttgacgctggtgctggt
+
 NM_204305.1 attgctctcaacgatcactttgtcaagctggtcacatggtatgacaatgagttcggttac
+
 NM_204305.1 agcaaccgtgtatgtgacctgatggcacacatggcctccaaggagtagatgtgacccctt
+
 NM_204305.1 tgctgtttcttttttttgatacgcgaccattctcccatctggttgaatgtttgcaccacg 
+
 NM_204305.1 tgcctggaaggaaattacatgcttaaattgaagaccaatattatttttatatactctgtt 
+
 NM_204305.1 ctgtttcgtgtgtgaggttaaaaataaatgttgacttcaaaggcttttctgtctgttaac 
+
 NM_204305.1 aacttgcgatggaataaaagtcctctgtttgtgagaaatgaaaaaaaaaaaaaaaaaaaa
+
 NM_204305.1 aaaaaaaaa;
+
 end; begin assumptions; options deftype=unord; end;
 
 ### Parte 4: Buscando artículos científicos en línea
