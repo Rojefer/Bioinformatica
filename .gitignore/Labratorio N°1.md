@@ -46,7 +46,7 @@ El número de identificación del gen es 3064.
 UniProt: P42858 (https://www.uniprot.org/uniprot/P42858).
 HumanCyc: G66-47214 (HumanCyc) (https://biocyc.org/gene?orgid=HUMAN&id=G66-47214).
 ##### 17. Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
-![] (https://www.genome.jp/kegg-bin/show_pathway?hsa05016)
+¡[](https://www.genome.jp/kegg-bin/show_pathway?hsa05016)
 imagen
 
 ##### 18. ¿Qué significan los cuadros verdes en el diagrama? (Pista: haz clic en Help).
@@ -80,8 +80,6 @@ Chao YJ, Wu WH, Balazova M, Wu TY, Lin J, Liu YW and Hsu YH.
 ¨Chlorella diet alters mitochondrial cardiolipin contents
 differentially in organs of Danio rerio analyzed by a lipidomics
 approach¨
-
-
 
 ##### 26. ¿Cuál es el número de acceso?
 29494608
@@ -126,11 +124,11 @@ end; begin assumptions; options deftype=unord; end;
 
 ### Parte 4: Buscando artículos científicos en línea
 ##### 29. En tu informe, incluye una captura de pantalla de tu alerta. Si es que recibes una alerta en tu correo electrónico, también puedes adjuntarla en tu informe.
-![](https://drive.google.com/file/d/1T6IHaizKysMCYSfkCOh2eSChlydHAPEG/view?usp=sharing)
+! [](https://drive.google.com/file/d/1T6IHaizKysMCYSfkCOh2eSChlydHAPEG/view?usp=sharing)
 imagen
 
 ##### 30. En tu informe agrega una captura de pantalla de tu suscripción o del correo electrónico de confirmación. 
-![](https://drive.google.com/file/d/1wPgpF3CqRsoCrloKd4p4pnWr_anqjz4s/view?usp=sharing)
+![] (https://drive.google.com/file/d/1wPgpF3CqRsoCrloKd4p4pnWr_anqjz4s/view?usp=sharing)
 imagen
 
 ##### 31. ¿Son los resultados idénticos o no?
