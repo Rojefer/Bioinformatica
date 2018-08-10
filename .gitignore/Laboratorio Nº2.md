@@ -10,6 +10,9 @@ Es un gen sin intrones, el cual codifica para un factor de transcripcion encarga
 
 Atualmente, según la pagina, existen 28 organismos que poseen genes ortologos con el gen SRY humano.
 
+
+
+
     >SRY_Homo_sapiens
     
      TGTTGAGGGCGGAGAAATGCAAGTTTCATTACAAAAGTTAACGTAACAAAGAATCTGGTAGAAGTGAGTT
@@ -25,6 +28,8 @@ Atualmente, según la pagina, existen 28 organismos que poseen genes ortologos c
     CAGCCAGCTCACCGCAGCAACGGGACCGCTACAGCCACTGGACAAAGCTGTAGGACAATCGGGTAACATT
     GGCTACAAAGACCTACCTAGATGCTCCTTTTTACGATAACTTACAGCCCTCACTTTCTTATGTTTAGTTT
     CAATATTGTTTTCTTTTCTCTGGCTAATAAAGGCCTTATTCATTTCA
+    
+    
     
     >SRY_Chlorocebus_sabaeus
     
