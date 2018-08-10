@@ -41,6 +41,7 @@ El número de identificación del gen es 3064.
 (https://www.genome.jp/dbget-bin/www_bget?hsa:3064).
 
 ##### 15. ¿En qué rutas metabólicas participa la proteína codificada por tu gen?
+Participa en la vía de señalización del calcio y en la via de señalizaión de la P53.
 
 ![](https://lh4.googleusercontent.com/E5a19bTiTqXvzms2LP0tZtIg0U-M6MVlXcSD5W4ZEaaTTMPCBgFWqVSme2cKCrP88kTBnbyx37vmxw=w1366-h662-rw)
 
@@ -48,8 +49,8 @@ El número de identificación del gen es 3064.
 UniProt: P42858 (https://www.uniprot.org/uniprot/P42858).
 HumanCyc: G66-47214 (HumanCyc) (https://biocyc.org/gene?orgid=HUMAN&id=G66-47214).
 ##### 17. Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
-¡[](https://www.genome.jp/kegg-bin/show_pathway?hsa05016)
-imagen
+
+¡[](https://www.genome.jp/kegg/pathway/hsa/hsa05016.png)
 
 ##### 18. ¿Qué significan los cuadros verdes en el diagrama? (Pista: haz clic en Help).
 
@@ -150,12 +151,12 @@ end; begin assumptions; options deftype=unord; end;
 
 ### Parte 4: Buscando artículos científicos en línea
 ##### 29. En tu informe, incluye una captura de pantalla de tu alerta. Si es que recibes una alerta en tu correo electrónico, también puedes adjuntarla en tu informe.
-! [](https://drive.google.com/file/d/1T6IHaizKysMCYSfkCOh2eSChlydHAPEG/view?usp=sharing)
-imagen
+
+! [](https://lh4.googleusercontent.com/JEbeVxtPPG5V7Oj3clEOr2du4a8SxY2fh2Pw7hMR-L5uGgvIB2di3jf3E_72emRG7U5iBRAf2J4OAw=w1366-h662-rw)
 
 ##### 30. En tu informe agrega una captura de pantalla de tu suscripción o del correo electrónico de confirmación. 
-![] (https://drive.google.com/file/d/1wPgpF3CqRsoCrloKd4p4pnWr_anqjz4s/view?usp=sharing)
-imagen
+
+![](https://lh5.googleusercontent.com/wnspd1rgAqCq4UHZK1-SAoxqM9QEjk0d9PjRWjWAhQLDAAZXskE2Vy25VREw3w6zInm8EpsOkD4YmQ=w1366-h662-rw)
 
 ##### 31. ¿Son los resultados idénticos o no?
 Si, son idénticos los resultados, tanto con o sin comillas los resultados son los mismos.
