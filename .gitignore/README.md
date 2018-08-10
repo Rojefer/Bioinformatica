@@ -46,7 +46,7 @@ El número de identificación del gen es 3064.
 UniProt: P42858 (https://www.uniprot.org/uniprot/P42858).
 HumanCyc: G66-47214 (HumanCyc) (https://biocyc.org/gene?orgid=HUMAN&id=G66-47214).
 ##### 17. Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
-![](https://www.genome.jp/kegg-bin/show_pathway?hsa05016)
+![] (https://www.genome.jp/kegg-bin/show_pathway?hsa05016)
 imagen
 
 ##### 18. ¿Qué significan los cuadros verdes en el diagrama? (Pista: haz clic en Help).
