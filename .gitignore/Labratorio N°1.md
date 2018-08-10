@@ -50,7 +50,7 @@ UniProt: P42858 (https://www.uniprot.org/uniprot/P42858).
 HumanCyc: G66-47214 (HumanCyc) (https://biocyc.org/gene?orgid=HUMAN&id=G66-47214).
 ##### 17. Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
 
-¡[](https://www.genome.jp/kegg/pathway/hsa/hsa05016.png)
+![](https://www.genome.jp/kegg/pathway/hsa/hsa05016.png)
 
 ##### 18. ¿Qué significan los cuadros verdes en el diagrama? (Pista: haz clic en Help).
 
@@ -152,7 +152,7 @@ end; begin assumptions; options deftype=unord; end;
 ### Parte 4: Buscando artículos científicos en línea
 ##### 29. En tu informe, incluye una captura de pantalla de tu alerta. Si es que recibes una alerta en tu correo electrónico, también puedes adjuntarla en tu informe.
 
-! [](https://lh4.googleusercontent.com/JEbeVxtPPG5V7Oj3clEOr2du4a8SxY2fh2Pw7hMR-L5uGgvIB2di3jf3E_72emRG7U5iBRAf2J4OAw=w1366-h662-rw)
+![](https://lh4.googleusercontent.com/JEbeVxtPPG5V7Oj3clEOr2du4a8SxY2fh2Pw7hMR-L5uGgvIB2di3jf3E_72emRG7U5iBRAf2J4OAw=w1366-h662-rw)
 
 ##### 30. En tu informe agrega una captura de pantalla de tu suscripción o del correo electrónico de confirmación. 
 
