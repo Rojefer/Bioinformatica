@@ -10,12 +10,8 @@ Es un gen sin intrones, el cual codifica para un factor de transcripcion encarga
 
 Atualmente, según la pagina, existen 28 organismos que poseen genes ortologos con el gen SRY humano.
 
-
-
-
-    >SRY_Homo_sapiens
-    
-     TGTTGAGGGCGGAGAAATGCAAGTTTCATTACAAAAGTTAACGTAACAAAGAATCTGGTAGAAGTGAGTT
+    >SRY_Homo_sapiens      
+    TGTTGAGGGCGGAGAAATGCAAGTTTCATTACAAAAGTTAACGTAACAAAGAATCTGGTAGAAGTGAGTT
     TTGGATAGTAAAATAAGTTTCGAACTCTGGCACCTTTCAATTTTGTCGCACTCTCCTTGTTTTTGACAAT
     GCAATCATATGCTTCTGCTATGTTAAGCGTATTCAACAGCGATGATTACAGTCCAGCTGTGCAAGAGAAT
     ATTCCCGCTCTCCGGAGAAGCTCTTCCTTCCTTTGCACTGAAAGCTGTAACTCTAAGTATCAGTGTGAAA
@@ -27,12 +23,9 @@ Atualmente, según la pagina, existen 28 organismos que poseen genes ortologos c
     AGGGATGACTGTACGAAAGCCACACACTCAAGAATGGAGCACCAGCTAGGCCACTTACCGCCCATCAACG
     CAGCCAGCTCACCGCAGCAACGGGACCGCTACAGCCACTGGACAAAGCTGTAGGACAATCGGGTAACATT
     GGCTACAAAGACCTACCTAGATGCTCCTTTTTACGATAACTTACAGCCCTCACTTTCTTATGTTTAGTTT
-    CAATATTGTTTTCTTTTCTCTGGCTAATAAAGGCCTTATTCATTTCA.
+    CAATATTGTTTTCTTTTCTCTGGCTAATAAAGGCCTTATTCATTTCA.    
     
-    
-    
-    >SRY_Chlorocebus_sabaeus
-    
+    >SRY_Chlorocebus_sabaeus    
      CCTAGGCGACAGAGCGAAACTCCATCTAAAAACAAAACAAAACAAAAACTTCTAAGTATATGTTAATATT
     CTGATACTTAATGCCTGTGAAAAATGTGTATAGAATTTTCATATACTCTTTAAATAGAAGTGAAGAAAAA
     GCGATAATGATTACTATAAATTCAATATGCAGTTATGTATGTATGTATGTGGTTAACACAATTAGGTTCT
@@ -425,8 +418,16 @@ La mejor par ratamiento de proteinas es "MUSCLE"(https://www.ebi.ac.uk/Tools/msa
 Ofrece distintos tipos de alinemiento de seuencias, ya se para proteinas completas, regiones especificas o cualquier otro sitio de interes. ya sean de seuencias medianas, laras o cortas.
 
 ##### **6. ¿Cuál es el costo de abrir un gap?**
+
+1.53
+
 ##### **7. ¿Cuál es el costo de extender un gap?**
+
+0.123
+
 ##### **8. ¿Cuál es la longitud total del alineamiento?**
+
+
 ##### **9. ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?**
 ##### **10. ¿Cuál es el más lejano?**
 ##### **11. ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?**
