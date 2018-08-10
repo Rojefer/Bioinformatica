@@ -1,12 +1,12 @@
-#Laboratorio 02 - Alineamiento de secuencias
+# Laboratorio 02 - Alineamiento de secuencias
 
-###Parte 1: Colectar genes homólogos
+### Parte 1: Colectar genes homólogos
 
-#####**1. **¿Qué función cumple el gen SRY?**
+##### **1. **¿Qué función cumple el gen SRY?**
 
 Es un gen sin intrones, el cual codifica para un factor de transcripcion encargado de la codifiacion de los testiulos, por lo que inicia la determinaion del sexo.
 
-#####**2. ¿Cuántos genes ortólogos están anotados en esa base de datos?**
+##### **2. ¿Cuántos genes ortólogos están anotados en esa base de datos?**
 
 Atualmente, según la pagina, existen 28 organismos que poseen genes ortologos con el gen SRY humano.
 
@@ -402,34 +402,34 @@ Atualmente, según la pagina, existen 28 organismos que poseen genes ortologos c
     GCTGCTGCAACAGGAGCACCACTACAGCTCTACAAGCCTCCGTGGCAGTCCAGAAACCTTGGCTACGCAT
     CTGTCCGCTGACACTCCCTTTTACCCTAAGTAA   
    
-###Parte 2: Alineamiento múltiple
+### Parte 2: Alineamiento múltiple
 
-#####**3. ¿Qué es el EMBL-EBI?**
+##### **3. ¿Qué es el EMBL-EBI?**
 
 Es un programa de alinemiento de secuenias, ess puedes ser de acidos nucleios o proteinas, tambien deben ser de longitud parecida. Este programa puede hacer dicho alineamiento entre 3 o mas seuenias a la vez.
 De acuerdo con el resulatdo del alineamiento se puede inferir de la homologia o no homologia de los genes secuenciados.
 
-#####**4. ¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?**
+##### **4. ¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?**
 
 La mejor par ratamiento de proteinas es "MUSCLE"(https://www.ebi.ac.uk/Tools/msa/muscle/)
 
-#####**5.¿Qué otros tipo de herramientas ofrece EMBL-EBI?**
+##### **5.¿Qué otros tipo de herramientas ofrece EMBL-EBI?**
 
 Ofrece distintos tipos de alinemiento de seuencias, ya se para proteinas completas, regiones especificas o cualquier otro sitio de interes. ya sean de seuencias medianas, laras o cortas.
 
-6. ¿Cuál es el costo de abrir un gap?
-7. ¿Cuál es el costo de extender un gap?
-8. ¿Cuál es la longitud total del alineamiento?
-9. ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
-10. ¿Cuál es el más lejano?
-11. ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
-12. ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
-13. ¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?
-14. ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?
-15. Prueba lo mismo, pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento.
-Parte 3: Diseño de partidores
-16. Agrega a tu informe una lista de los "LEFT PRIMER" y "RIGHT PRIMER" que obtuviste usando Primer3. 
-17. Indica los partidores forward y reverse que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano.
-18. ¿Cuál es el largo del amplicón? ¿Y la temperatura de annealing sugerida?
+##### **6. ¿Cuál es el costo de abrir un gap?**
+##### **7. ¿Cuál es el costo de extender un gap?**
+##### **8. ¿Cuál es la longitud total del alineamiento?**
+##### **9. ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?**
+##### **10. ¿Cuál es el más lejano?**
+##### **11. ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?**
+##### **12. ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
+##### **13. ¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?**
+##### **14. ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?**
+##### **15. Prueba lo mismo, pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento.**
+### **Parte 3: Diseño de partidores
+##### **16. Agrega a tu informe una lista de los "LEFT PRIMER" y "RIGHT PRIMER" que obtuviste usando Primer3. **
+##### **17. Indica los partidores forward y reverse que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano.**
+##### **18. ¿Cuál es el largo del amplicón? ¿Y la temperatura de annealing sugerida?**
 
 
