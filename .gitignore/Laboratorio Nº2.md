@@ -427,13 +427,35 @@ Ofrece distintos tipos de alinemiento de seuencias, ya se para proteinas complet
 
 ##### **8. ¿Cuál es la longitud total del alineamiento?**
 
+La longitud de alineamiento es de 899pb 
+
+![](Imagen de alineamiento)
 
 ##### **9. ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?**
+
+SRY_Piliocolobus_tephrosceles 0.0014
+
+![](Imagen del arbol filogenetico, mas cercano)
+
 ##### **10. ¿Cuál es el más lejano?**
+SRY_Puma_concolor 0.10024
+
+![](Imagen del arbol filogenetico, mas lejano)
+
 ##### **11. ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?**
+SRY_Equus_przewalskii 0.00059
+
+![](Gen mas cercano al del burro)
+
 ##### **12. ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
+Se espera un cambio en elnumero de alineamiento de pares debido a la alza de abrir un gap. se verían menos gaps abiertos y más etenciones de gaps, con el objetivo de disnuir el consumo o gasto; en el caso contrario se observaría lo opuesto a lo descrito anteriormente.
+
 ##### **13. ¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?**
+Se espera una secuencia con mas aperturas de gaps que extensiones de estos, ya que le saldría mas barato abrir que extender gaps.
+en el caso contrario, si disminuye el costo de la extencion de gaps, habrá mas extenciones de gaps que aperturas ya que el programa busca disminuir al minimo los costos.
+
 ##### **14. ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?**
+
 ##### **15. Prueba lo mismo, pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento.**
 
 ### Parte 3: Diseño de partidores
