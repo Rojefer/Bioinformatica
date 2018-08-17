@@ -39,25 +39,25 @@ Ofrece distintos tipos de alinemiento de seuencias, ya se para proteinas complet
 
 La longitud de alineamiento es de 1782 
 
-![](Imagen de alineamiento)
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Alineamiento%20de%20secuencias.png?raw=true)
 
 ##### **9. ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?**
 
 SRY_Piliocolobus_tephrosceles 0.0014
 
-![](Imagen del arbol filogenetico, mas cercano)
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Arbol%20Filogenetico,%20gen%20mas%20cercano.png?raw=true)
 
 ##### **10. ¿Cuál es el más lejano?**
 
 SRY_Puma_concolor 0.10024
 
-![](Imagen del arbol filogenetico, mas lejano)
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Arbol%20Foligenetico,%20gen%20mas%20lejano.png?raw=true)
 
 ##### **11. ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?**
 
 SRY_Equus_przewalskii 0.00059
 
-![](Gen mas cercano al del burro)
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/M%C3%A1s%20cercano%20al%20burro.png?raw=true)
 
 ##### **12. ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
 
@@ -77,7 +77,7 @@ mantuvo la longitud de 1782.
 
 Al disminuir al mínimo el costo de extender un gap, se ve afetado el alineamiento, ya que el sistema busca gastar lo menos posible. Por esto, los aminoacidos se agrupan al inicio del alineamiento; tambien, presenta espacios en blanco casi completos entre medio.
 
-![](Imagen de extencion al minimo de gap).
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Imagen%20de%20extencion%20al%20minimo%20de%20gap.png?raw=true)
 
 ### Parte 3: Diseño de partidores
 
@@ -97,7 +97,7 @@ Al disminuir al mínimo el costo de extender un gap, se ve afetado el alineamien
      3.- GCTTTGTCCAGTGGCTGTAG
      4.- CTACAGCTTTGTCCAGTGGC
      
- ![](imagen de lefth and Right primer 3)
+ ![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Left%20and%20Right%20%20Primer%203.png?raw=true)
  
 ##### **17. Indica los partidores forward y reverse que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano.**
 
@@ -110,7 +110,7 @@ Se eligieron estos primers porque todos los otros parametros están marcados com
 
 El largo es de 207 nucl. y la temperatura sugerida es de 55 °C.
 
-![](Temperatura y largo del alineamiento)
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Temperatura%20y%20largo%20de%20alineamiento.png?raw=true)
 
 
 
