@@ -172,3 +172,5 @@ En que al utilizar los signos + y - en la búsqueda da como resultado diferentes
 ##### 36. De nuevo, ¿en qué cambian los resultados de la búsqueda? 
 Al utilizar el operador OR, el rango de búsqueda es más amplio a diferencia del operador AND, que reduce los resultados de búsqueda.
 
+
+
