@@ -70,8 +70,11 @@ en el caso contrario, si disminuye el costo de la extencion de gaps, habrá mas 
 
 ##### **14. ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?**
 
-La longitud del alineamiento se mantuvo constante, en donde el gen >SRY_Odobenus_rosmarus/1-663
-mantuvo la longitud de 1782.
+La longitud del alineamiento se mantuvo constante con una longitud de 1782, ademas, se puede observar como los aminoacidos se concentran más en el medio que en los extremos del alineamiento.
+
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Aumento%20de%20un%20gap%20a%202.0.png?raw=true)
+
+
 
 ##### **15. Prueba lo mismo, pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento.**
 
