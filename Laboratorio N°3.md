@@ -62,6 +62,7 @@ De estos datos se puede inferir que la longitud total del espacio de ensamblaje 
 ##### 10. ¿Qué tipo de tecnología se uso para secuenciar el genoma del Bonobo? ¿Qué método (programa o algorítmo bioinformático) se usó para ensamblar el genoma?.
 
 La tecnología usada para secuenciar el genoma del Bonobo fue de **"454 GS FLX; 454 GS FLX Titanium"**  y el método de montage utilizado fué **"Celera Assembler v. 5.4.3"** .
+
 ---
 
 ![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Fin%20Parte%201.png?raw=true).
