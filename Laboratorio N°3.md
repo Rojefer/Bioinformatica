@@ -40,7 +40,7 @@ Corresponde a la cantidad de contigs que son capaces de producir un N50.
 **NG50**
 Es exactamente la mitad del genoma, generalmente es igual o muy parecido al N50. Para una mejor explicación se deja un jemplo. 
 
-![](Ejemplo NG50).
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Ejemplo%20de%20NG50.png?raw=true).
 
 ##### 7. ¿Cuál es el propósito de calcular estas estadísticas?.
 
@@ -50,7 +50,7 @@ Son metodos estadisticos que ayudan a un mejor entendimiento de la longitud y co
 
 La cantidad de contigs del Bonobo son 121.356.-, su N50 es 66.676.- y el L50 es 11.048.-
 
-![](N50, L50 .....)
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/L50,%20N50%20y%20Contigs.png?raw=true).
 
 ##### 9. ¿Cuál es el largo total y porcentaje de GC del genoma del Bonobo? ¿Qué quieren decir o qué indican éstos valores?.
 
@@ -64,7 +64,7 @@ De estos datos se puede inferir que la longitud total del espacio de ensamblaje 
 La tecnología usada para secuenciar el genoma del Bonobo fue de **"454 GS FLX; 454 GS FLX Titanium"**  y el método de montage utilizado fué **"Celera Assembler v. 5.4.3"** .
 ---
 
-![](fin parte 1) 
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/Fin%20Parte%201.png?raw=true).
 
 ---
 
@@ -74,7 +74,7 @@ La tecnología usada para secuenciar el genoma del Bonobo fue de **"454 GS FLX; 
 
 Se obtuvieron como resultado un total de 7 ORF, 2 codificados en la primera hebra y los otros 5 en la primera, también se puede observar que estos se sobrponen entre si, como se muestra en la fifura más abajo, donde se detalla l longitud de cada uno, junto con su inicio y final respectivo.
 
-![](ORF)
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/ORF.png?raw=true).
 
 ##### 12. ¿Qué tipo de programa es ORFfinder, Ab initio o por homología?.
 
@@ -92,7 +92,7 @@ Está codificada la superfamilia de FdhE, las proteinas ribosomales Riml y la DN
 
 Después de observar dichos datos, se pudo concluir que los ORF predichos correctamente son 3, los cuales son los ORF número 1, 4 y 5.
 
-![]()
+![](https://github.com/Rojefer/Bioinformatica/blob/master/.gitignore/BLAST%20vs%20ORFfinder.png?raw=true).
 
 
 
