@@ -1,9 +1,18 @@
-#Laboratorio 04 - Filogenética Molecular
+# Laboratorio 04 - Filogenética Molecular
+
+### Plataforma Phylogeny.fr y preparación de datos
 
 ##### 1. ¿Qué ofrece o para qué sirve el portal Phylogeny.fr?
 
+Sirve para contruir secuencias filogenéticas, entre especies, a la vez esá acoplada a varios programas computacionales, los cuales sirven para comparar la evolucion de alguna secuencia en específico.
 
-2. Nombra y explica brevemente los 3 modos en los que se puede ejecutar el pipeline de Phylogeny.fr. [2]
+##### 2. Nombra y explica brevemente los 3 modos en los que se puede ejecutar el pipeline de Phylogeny.fr.
+
+Pipeline es un programa que hace que el trabajo se realice de una forma en específica o de manera ordenada, ya sea como primer paso alineamiento, creacion del arbol, inferencias relacionadas a la evolucion de esa secuencia en específico. 
+
+**One Click:** 
+****
+****
 3. Menciona qué tipos de análsis se pueden realizar en el portal de acuerdo a la documentación. (Online Programs) [2]
 4. Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste. Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia (Name of the analysis). [2]
 5. ¿A qué se refiere el paso de Alignment curation y para qué sirve? [3]
