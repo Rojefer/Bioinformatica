@@ -10,8 +10,10 @@ Sirve para contruir secuencias filogenéticas, entre especies, a la vez esá aco
 
 Pipeline es un programa que hace que el trabajo se realice de una forma en específica o de manera ordenada, ya sea como primer paso alineamiento, creacion del arbol, inferencias relacionadas a la evolucion de esa secuencia en específico. 
 
-**One Click:**    Es un método en donde el programa toma las desiciones por uno.
+**One Click:** Es un método en donde el programa toma las desiciones por uno.
+
 **Avanzado:**     Es un método en donde uno elige sus propios parámetros de estudio.
+
 **A la carta:**   Es un método que sólo trabaja con una secuencia única pero te permite comparar el resultado con otras secuencias homologas.
 
 ##### 3. Menciona qué tipos de análsis se pueden realizar en el portal de acuerdo a la documentación. 
@@ -29,6 +31,7 @@ Es una herramienta que te permite seleccionar como quieres que sea tu tratamient
 ##### 6. ¿Cuál es la diferencia entre BioNJ y Neighbor?.
 
 **BioNJ:** Reduce la distancia de la matriz mediante reemplazo de taxones.
+
 **Neighbor:** En comparacion con "BioNJ", éste método mantiene una mayor distancia.
 
 ##### 7. Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste (sin Alignment curation).
